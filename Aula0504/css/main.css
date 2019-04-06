@@ -1,0 +1,31 @@
+body{
+    background-color: brown;
+
+}
+
+div{
+    width: 100px;
+    height: 100px;
+    border: 1px solid red;
+    margin: 200px auto;
+
+}
+
+
+/*
+Criou uma class para formatar h1 e h2 ao mesmo tempo
+
+*/ 
+h2{
+    color: darkgreen;
+    
+}
+
+h1{
+    color: aqua;
+    
+}
+
+.texto-centralizado{
+    text-align: center;
+}
